@@ -108,6 +108,7 @@
 }
 
 .task-item > .input-checkbox {
+  flex: 0 0 30px;
   margin: 0 10px;
 }
 .task-item > .label {
